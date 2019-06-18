@@ -1,0 +1,4 @@
+interface IFruit {
+    boolean hasAPeel();
+}
+
